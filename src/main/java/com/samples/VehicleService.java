@@ -25,7 +25,7 @@ public class VehicleService {
         }else if(type.equals(VehicleType.SEDAN)){
             brands.add("Hyundai Verna");
             brands.add("Honda City");
-            brands.add("BMW 3 Series");
+            brands.add("BMW 6 Series");
 
         }else {
             brands.add("No Brand Available");
